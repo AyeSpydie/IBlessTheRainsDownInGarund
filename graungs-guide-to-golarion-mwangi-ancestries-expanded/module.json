@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-mwangi-ancestries-expanded",
   "title": "Graung's Guide to Golarion: Mwangi Ancestries Expanded",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -32,11 +32,6 @@
   "flags": {
     "sabosan-ancestry": {
       "pf2e-homebrew": {
-        "baseWeapons": {
-          "undecided-item": "undecided item",
-          "brachyuran-thingy": "Brachyuran Thingy",
-          "one-more": "One More"
-        },
         "creatureTraits": {
           "sabosan": "Sabosan"
         },
@@ -46,4 +41,7 @@
       }
     }
   },
+  "url": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund",
+  "manifest": "https://raw.githubusercontent.com/AyeSpydie/IBlessTheRainsDownInGarund/main/graungs-guide-to-golarion-mwangi-ancestries-expanded/module.json",
+  "download": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund/archive/refs/heads/main.zip"
 }
