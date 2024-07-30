@@ -32,11 +32,6 @@
   "flags": {
     "sabosan-ancestry": {
       "pf2e-homebrew": {
-        "baseWeapons": {
-          "undecided-item": "undecided item",
-          "brachyuran-thingy": "Brachyuran Thingy",
-          "one-more": "One More"
-        },
         "creatureTraits": {
           "sabosan": "Sabosan"
         },
