@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-mwangi-ancestries-expanded",
   "title": "Graung's Guide to Golarion: Mwangi Ancestries Expanded",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -30,13 +30,8 @@
     }
   ],
   "flags": {
-    "brachyuran-crabfolk-ancestry": {
+    "sabosan-ancestry": {
       "pf2e-homebrew": {
-        "baseWeapons": {
-          "undecided-item": "undecided item",
-          "brachyuran-thingy": "Brachyuran Thingy",
-          "one-more": "One More"
-        },
         "creatureTraits": {
           "sabosan": "Sabosan"
         },
@@ -54,9 +49,6 @@
         },
         "featTraits": {
           "sabosan": "Sabosan"
-        },
-        "languages": {
-          "brachyuran": "Brachyuran"
         }
       }
     }
