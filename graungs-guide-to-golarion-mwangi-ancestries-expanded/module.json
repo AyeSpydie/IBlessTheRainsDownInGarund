@@ -15,7 +15,7 @@
       "flags": {}
     }
   ],
-  "url": "patreon.com/ayespydie",
+  "url": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund",
   "packs": [
     {
       "name": "Graungs_Guide_to_Golarion_Mwangi_Ancestries_Expanded",
@@ -61,7 +61,6 @@
       }
     }
   },
-  "url": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund",
   "manifest": "https://raw.githubusercontent.com/AyeSpydie/IBlessTheRainsDownInGarund/main/graungs-guide-to-golarion-mwangi-ancestries-expanded/module.json",
   "download": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund/archive/refs/heads/main.zip"
 }
