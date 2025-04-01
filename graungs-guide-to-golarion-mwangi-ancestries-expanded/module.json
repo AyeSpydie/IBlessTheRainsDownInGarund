@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-mwangi-ancestries-expanded",
   "title": "Graung's Guide to Golarion: Mwangi Ancestries Expanded",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -27,6 +27,22 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Graung's Guide to Golarion",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Mwangi Ancestries Expanded",
+          "sorting": "m",
+          "packs": [
+            "Graungs_Guide_to_Golarion_Mwangi_Ancestries_Expanded"
+          ]
+        }
+      ]
     }
   ],
   "flags": {
