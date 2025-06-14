@@ -1,10 +1,10 @@
 {
   "id": "graungs-guide-to-golarion-mwangi-ancestries-expanded",
   "title": "Graung's Guide to Golarion: Mwangi Ancestries Expanded",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "description": "Graung's Guide to Golarion: Mwangi Ancestries Expanded adds over 100 ancestry feats for the Anadi, Conrasu, Goloma, Kholo, Shisk, and Tripkee ancestries, in addition to the new Sabosan ancestry.",
   "authors": [
