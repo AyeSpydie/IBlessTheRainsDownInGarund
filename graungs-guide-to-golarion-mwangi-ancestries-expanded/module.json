@@ -69,6 +69,15 @@
       }
     }
   },
+    "media": [
+    {
+      "type": "setup",
+      "caption": "Graung's Guide to Golarion: Ancestries of the Impossible Lands",
+      "thumbnail": "modules/graungs-guide-to-golarion-mwangi-ancestries-expanded/art/MwangiModulePreview.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
   "manifest": "https://raw.githubusercontent.com/AyeSpydie/IBlessTheRainsDownInGarund/main/graungs-guide-to-golarion-mwangi-ancestries-expanded/module.json",
   "download": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund/archive/refs/heads/main.zip"
 }
