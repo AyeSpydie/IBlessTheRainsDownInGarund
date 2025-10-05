@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-mwangi-ancestries-expanded",
   "title": "Graung's Guide to Golarion: Mwangi Ancestries Expanded",
-  "version": "1.0.3",
+  "version": "1.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -15,7 +15,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund",
+  "url": "http://www.patreon.com/AyeSpydie",
   "packs": [
     {
       "name": "Graungs_Guide_to_Golarion_Mwangi_Ancestries_Expanded",
@@ -72,12 +72,12 @@
     "media": [
     {
       "type": "setup",
-      "caption": "Graung's Guide to Golarion: Ancestries of the Impossible Lands",
+      "caption": "Graung's Guide to Golarion: Mwangi Ancestries Expanded",
       "thumbnail": "modules/graungs-guide-to-golarion-mwangi-ancestries-expanded/art/MwangiModulePreview.webp",
       "loop": false,
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/AyeSpydie/IBlessTheRainsDownInGarund/main/graungs-guide-to-golarion-mwangi-ancestries-expanded/module.json",
-  "download": "https://github.com/AyeSpydie/IBlessTheRainsDownInGarund/archive/refs/heads/main.zip"
+  "manifest": "https://drive.google.com/uc?export=download&id=1Vsrp2uHt5QL48RB34Z3eMEs9Z_1FaEnB",
+  "download": "https://drive.google.com/uc?export=download&id=1C60qzbq7ud1NoxuO5ms7fidGmFVkPOhz"
 }
